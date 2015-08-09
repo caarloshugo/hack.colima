@@ -70,17 +70,12 @@ footer.page-footer {
 }
 
 /* ------------ Main header ------------- */
-
-.hack-green-text {
-  color: #2ab573;
-}
-
 .overlay {
   background-color: #454545;
 }
 
-.semi-transparent {
-  opacity: 1;
+@media screen and (min-width: 993px) {
+  .heading {
+    margin-top: 35px;
+  }
 }
-
-
