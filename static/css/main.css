@@ -105,7 +105,7 @@ nav a:hover {
   max-height: 900px;
   min-height: 600px;
   display: block;
-  background: url('../images/pattern.jpg') no-repeat center fixed;
+  background: url('../images/main-bg.jpg') no-repeat center fixed;
   background-size: cover;
   -moz-background-size: cover;
 }
